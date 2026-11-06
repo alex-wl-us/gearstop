@@ -1,0 +1,100 @@
+{
+  "answers": {
+    "apiStyle": [
+      "REST"
+    ],
+    "auth": [
+      "SSO"
+    ],
+    "backend": [
+      "New backend"
+    ],
+    "backendStack": [
+      "Node.js"
+    ],
+    "branching": [
+      "Trunk-based"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "compute": [
+      "Containers"
+    ],
+    "database": [
+      "Relational"
+    ],
+    "dbEngine": [
+      "Postgres"
+    ],
+    "description": [
+      "your onestop shop for secondhand outdoors ge"
+    ],
+    "designSystem": [
+      "Our design system"
+    ],
+    "domain": [
+      "Generated URL"
+    ],
+    "environments": [
+      "Dev only"
+    ],
+    "frontend": [
+      "Angular"
+    ],
+    "gates": [
+      "Lint",
+      "Unit tests",
+      "Security scan"
+    ],
+    "owner": [
+      "Just me"
+    ],
+    "projectKind": [
+      "Public website"
+    ],
+    "projectName": [
+      "gearstop"
+    ],
+    "region": [
+      "us-east-1"
+    ],
+    "routing": [
+      "Multiple pages"
+    ],
+    "schema": [
+      "Start empty"
+    ],
+    "sourceHost": [
+      "GitHub"
+    ],
+    "traffic": [
+      "Just me"
+    ],
+    "visibility": [
+      "Private"
+    ]
+  },
+  "approvals": [],
+  "assumed": [],
+  "createdAt": 1793981859016,
+  "deployments": [
+    {
+      "at": 1793982174306,
+      "costHigh": 104,
+      "costLow": 55,
+      "environments": "Dev only",
+      "kind": "full",
+      "label": "Initial deploy",
+      "outcome": "live",
+      "url": "gearstop-dev.us-east-1.elb.amazonaws.com",
+      "version": 1
+    }
+  ],
+  "detected": [],
+  "id": "smw56h9l4",
+  "name": "gearstop",
+  "phase": "delivered",
+  "prompt": "build me a responsive used outdoors gear web application with search, filters, comparisons, listing details, and a loadout system for helping the enthusiast to tune their hiking or camping setup for whatever they expect to do when they're out hiking, camping, climbing, etc.",
+  "updatedAt": 1793996240081
+}
